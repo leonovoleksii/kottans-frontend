@@ -8,4 +8,4 @@ The course on Udacity was good and I really enjoyed try.github.io.
 
 ![screenshot](task_linux_cli/Screenshot_1.png)
 
-In this task I've learned some new things about CLI such as redirection of output, input and how to configure your own environment in CLI. Moreover, HTTP was a new thing for me. Now I know a little bit how browser communicates with other machines on the Internet.
+In this task I've learned some new things about CLI such as redirection of output, input and how to configure your own environment in CLI. Moreover, HTTP was a new thing for me. Now I know a little bit about how browser communicates with other machines on the Internet.
