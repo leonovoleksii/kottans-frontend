@@ -9,3 +9,9 @@ The course on Udacity was good and I really enjoyed try.github.io.
 ![screenshot](task_linux_cli/Screenshot_1.png)
 
 In this task I've learned some new things about CLI such as redirection of output, input and how to configure your own environment in CLI. Moreover, HTTP was a new thing for me. Now I know a little bit about how browser communicates with other machines on the Internet.
+
+## Git Collaboration
+
+![screenshot](task_git_collaboration/Screenshot_1.png)
+
+This course was interesting for me. I've learned new things in Git. I really liked the '--oneline' flag for 'git log' command. Also it is really good that it was explained how to undo your commits. I think 'git commit --amend' and 'git reset' are frequently used in practice.
