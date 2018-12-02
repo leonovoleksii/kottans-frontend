@@ -14,4 +14,4 @@ In this task I've learned some new things about CLI such as redirection of outpu
 
 ![screenshot](task_git_collaboration/Screenshot_1.png)
 
-This course was interesting for me. I've learned new things in Git. I really liked the '--oneline' flag for 'git log' command. Also it is really good that it was explained how to undo your commits. I think 'git commit --amend' and 'git reset' are frequently used in practice.
+This course was interesting for me. I've learned new things in Git. I really liked the `--oneline` flag for `git` log command. Also it is really good that it was explained how to undo your commits. I think `git commit --amend` and `git reset` are frequently used in practice.
