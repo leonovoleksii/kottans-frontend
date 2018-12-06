@@ -19,3 +19,9 @@ This course was interesting for me. I've learned new things in Git. I really lik
 ![screenshot](task_git_collaboration/Screenshot_2.png)
 
 It was really useful to complete this course because I refreshed my knowledge of GitHub and I got a better understanding of it. Moreover, this course explains greatly how to contribute in open-source projects.
+
+## Intro to HTML and CSS
+
+![screenshot](task_html_css_intro/Screenshot_1.png)
+
+This course was as a little refresher of my knowledge. Everything wasn't new for me except some things about selectors. For example, I didn't know about `:nth-child` selector. 
