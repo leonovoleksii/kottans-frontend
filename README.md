@@ -25,3 +25,8 @@ It was really useful to complete this course because I refreshed my knowledge of
 ![screenshot](task_html_css_intro/Screenshot_1.png)
 
 This course was as a little refresher of my knowledge. Everything wasn't new for me except some things about selectors. For example, I didn't know about `:nth-child` selector. 
+
+![screenshot](task_html_css_intro/Screenshot_2.png)
+![screenshot](task_html_css_intro/Screenshot_3.png)
+
+This course was a little bit boring for me because almost everything that was in this course I've already known, but I've learned some new things about cascading and inheritance.
