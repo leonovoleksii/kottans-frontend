@@ -40,9 +40,9 @@ In this course I've learned about flexbox and different design patterns of respo
 ![screenshot](task_responsive_web_design/Screenshot_2.png)
 
 This game is awesome and it was useful for me because now I know about css properties for flexbox such as
-*`justify-content`
-*`align-items`
-*`flex-direction`
-*`align-self`
-*`flex-flow`
-*`align-content`
+* `justify-content`
+* `align-items`
+* `flex-direction`
+* `align-self`
+* `flex-flow`
+* `align-content`
