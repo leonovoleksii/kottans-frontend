@@ -30,3 +30,9 @@ This course was as a little refresher of my knowledge. Everything wasn't new for
 ![screenshot](task_html_css_intro/Screenshot_3.png)
 
 This course was a little bit boring for me because almost everything that was in this course I've already known, but I've learned some new things about cascading and inheritance.
+
+## Responsive Web Design
+
+![screenshot](task_responsive_web_design/Screenshot_1.png)
+
+In this course I've learned about flexbox and different design patterns of responsive websites. I think flexbox is a great tool and I was surprised that you can just change the order of elements in the flexbox with the `order` property in css.
