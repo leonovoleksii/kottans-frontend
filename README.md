@@ -36,3 +36,13 @@ This course was a little bit boring for me because almost everything that was in
 ![screenshot](task_responsive_web_design/Screenshot_1.png)
 
 In this course I've learned about flexbox and different design patterns of responsive websites. I think flexbox is a great tool and I was surprised that you can just change the order of elements in the flexbox with the `order` property in css.
+
+![screenshot](task_responsive_web_design/Screenshot_2.png)
+
+This game is awesome and it was useful for me because now I know about css properties for flexbox such as
+* `justify-content`
+* `align-items`
+* `flex-direction`
+* `align-self`
+* `flex-flow`
+* `align-content`
