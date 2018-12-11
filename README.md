@@ -46,3 +46,9 @@ This game is awesome and it was useful for me because now I know about css prope
 * `align-self`
 * `flex-flow`
 * `align-content`
+
+## JS Basics
+
+![screenshot](task_js_basics/Screenshot_1.png)
+
+At the beginning of this course everything was very easy because I've already known everythin, but in the middle of the course I've started to learn about new things in JavaScript such as `forEach` method for arrays, hoisting of declarations, functions as parameters, named function expressions and inline function expressions. Also, now I know about such array methods as: `map()`, `splice()`, `pop`, `push` and others. Moreover, I've learned how objects are presented in JavaScript.
