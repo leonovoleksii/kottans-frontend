@@ -56,3 +56,5 @@ At the beginning of this course everything was very easy because I've already kn
 ![screenshot](task_js_basics/Screenshot_2.png)
 
 This exercises were useful for me because I've learned how to manipulate strings in JavaScript.
+
+Also in this task I've learned about some basic algorithms and how linked list, graphs, queue and stack are represented in JavaScript.
