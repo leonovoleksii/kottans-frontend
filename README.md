@@ -64,3 +64,7 @@ Also in this task I've learned about some basic algorithms and how linked list, 
 ![screenshot](task_js_dom/Screenshot_1.png)
 
 During taking this course I've learned about how DOM works - about structure of the DOM, event listeners, how to change existing objects in the document or how to create new ones and other interesting things. I think event listener is the most commonly used thing in this course.
+
+![screenshot](task_js_dom/Screenshot_2.png)
+
+To my surprise, the exercises in the second part of this problem set were easier than in the first part. I liked this problem set and I improved my skill of building algorithms and data structures.
