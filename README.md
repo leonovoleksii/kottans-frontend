@@ -58,3 +58,9 @@ At the beginning of this course everything was very easy because I've already kn
 This exercises were useful for me because I've learned how to manipulate strings in JavaScript.
 
 Also in this task I've learned about some basic algorithms and how linked list, graphs, queue and stack are represented in JavaScript.
+
+## DOM
+
+![screenshot](task_js_dom/Screenshot_1.png)
+
+During taking this course I've learned about how DOM works - about structure of the DOM, event listeners, how to change existing objects in the document or how to create new ones and other interesting things. I think event listener is the most commonly used thing in this course.
