@@ -68,3 +68,5 @@ During taking this course I've learned about how DOM works - about structure of 
 ![screenshot](task_js_dom/Screenshot_2.png)
 
 To my surprise, the exercises in the second part of this problem set were easier than in the first part. I liked this problem set and I improved my skill of building algorithms and data structures.
+
+Reviewed and approved by @AMashoshyna [Demo](https://leonovoleksii.github.io/dom-js/) | [Codebase](https://github.com/leonovoleksii/dom-js)
