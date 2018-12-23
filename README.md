@@ -70,3 +70,7 @@ During taking this course I've learned about how DOM works - about structure of 
 To my surprise, the exercises in the second part of this problem set were easier than in the first part. I liked this problem set and I improved my skill of building algorithms and data structures.
 
 Reviewed and approved by @AMashoshyna [Demo](https://leonovoleksii.github.io/dom-js/) | [Codebase](https://github.com/leonovoleksii/dom-js)
+
+## A Tiny JS World
+
+Reviewed and approved by @AMashoshyna [Demo](https://leonovoleksii.github.io/a-tiny-JS-world/) | [Codebase](https://github.com/leonovoleksii/a-tiny-JS-world)
