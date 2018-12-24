@@ -74,3 +74,8 @@ Reviewed and approved by @AMashoshyna [Demo](https://leonovoleksii.github.io/dom
 ## A Tiny JS World
 
 Reviewed and approved by @AMashoshyna [Demo](https://leonovoleksii.github.io/a-tiny-JS-world/) | [Codebase](https://github.com/leonovoleksii/a-tiny-JS-world)
+
+## Object Oriented JS
+
+![screenshot](task_js_oop/Screenshot_1.png)
+[CodeWars Profile](https://www.codewars.com/users/leonovoleksii)
